@@ -1,0 +1,35 @@
+.li {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e2e8f0;
+    padding: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-transform: capitalize;
+}
+.liComplete {
+    display: flex;
+    justify-content: space-between;
+    background-color: #94a3b8;
+    padding: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-transform: capitalize;
+}
+.row {
+    display: flex;
+}
+.text {
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+.textComplete {
+    margin-left: 0.5rem;
+    cursor: pointer;
+    text-decoration: line-through;
+}
+.button {
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+}

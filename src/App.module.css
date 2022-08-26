@@ -1,0 +1,67 @@
+  .portfolioBtn {
+    border-radius: 35px;
+    border: none;
+    padding: 5px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    outline: none;
+    background-color: #1515159b;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+  }
+  .portfolioLink {
+    padding: 5px;
+    display: flex;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+  }
+  .bg {
+    background-color: rgb(30 41 59);
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+  }
+  .container {
+    background-color: rgb(241 245 249);
+    max-width: 500px;
+    width: 100vw;
+    margin: auto;
+    border-radius: 10px;
+    filter: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
+    padding: 1rem;
+  }
+  .heading {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: bold;
+    text-align: center;
+    color: #1f2937;
+    padding: 0.5rem;
+  }
+  .form {
+    display: flex;
+    justify-content: space-between;
+  }
+  .input {
+    border-width: 1px;
+    padding: 0.5rem;
+    width: 100vw;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+  .button {
+    border-width: 1px;
+    padding: 1rem;
+    margin-left: 0.5rem;
+    @media (min-width: 640px) { margin-top: 0; };
+    background-color: #2563eb;
+    color: #f1f5f9;
+  }
+  .count {
+    text-align: center;
+    padding: 0.5rem;
+  }
