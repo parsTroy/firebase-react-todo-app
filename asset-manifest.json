@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/firebase-react-todo-app/static/css/main.84faf12f.css",
-    "main.js": "/firebase-react-todo-app/static/js/main.b8c92372.js",
+    "main.css": "/firebase-react-todo-app/static/css/main.cb603aad.css",
+    "main.js": "/firebase-react-todo-app/static/js/main.351c383d.js",
     "index.html": "/firebase-react-todo-app/index.html",
-    "main.84faf12f.css.map": "/firebase-react-todo-app/static/css/main.84faf12f.css.map",
-    "main.b8c92372.js.map": "/firebase-react-todo-app/static/js/main.b8c92372.js.map"
+    "main.cb603aad.css.map": "/firebase-react-todo-app/static/css/main.cb603aad.css.map",
+    "main.351c383d.js.map": "/firebase-react-todo-app/static/js/main.351c383d.js.map"
   },
   "entrypoints": [
-    "static/css/main.84faf12f.css",
-    "static/js/main.b8c92372.js"
+    "static/css/main.cb603aad.css",
+    "static/js/main.351c383d.js"
   ]
 }
